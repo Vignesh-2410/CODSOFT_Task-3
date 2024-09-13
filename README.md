@@ -28,8 +28,8 @@ Clone the repository to your local machine:
 
 Run the application:
 `python password.py`
-```
-## Requirements
+**```
+## Requirements**
   * Python 3.x
   * Tkinter library (usually included with Python)
 
